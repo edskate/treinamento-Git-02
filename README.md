@@ -9,8 +9,3 @@
 >We can also Run our program in the Vscode cloud.
 
 ```
-
-Github and a Developer Platform.
-```
-- fghj
--   # xcv
